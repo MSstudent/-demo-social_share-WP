@@ -1,10 +1,9 @@
-
 social share lib for windows phone
 ============
 
->本项目是一个精简版的新浪微博、腾讯微博、人人和QQ空间SDK，需要在项目中添加引用
->相关的引用dll文件可到这里下载  <http://socialsdk.codeplex.com/downloads/get/423864>
->本开源项目的使用也可以参考作者的博客 <http://www.cnblogs.com/alexis/archive/2012/05/30/2526433.html>
+>本项目是一个精简版的新浪微博、腾讯微博、人人和QQ空间SDK，需要在项目中添加引用    
+>相关的引用dll文件可到这里下载  <http://socialsdk.codeplex.com/downloads/get/423864>     
+>本开源项目的使用也可以参考作者的博客 <http://www.cnblogs.com/alexis/archive/2012/05/30/2526433.html>      
 
 Social sharing for windows phone. Including Weibo, Tencent Weibo, Renren and QQZone and others maybe supported in future.
 
